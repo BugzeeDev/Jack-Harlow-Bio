@@ -1,4 +1,3 @@
-<script>
 //Defines a function to be called later  -- my signature
     function bdAuth() {
         console.log("------------------------")
@@ -12,4 +11,3 @@
     //defines a variable and then logs that vairable to the dev console
     const testJavascript = "Javascript code is running..."
     console.log(testJavascript)
-</script>
